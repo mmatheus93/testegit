@@ -1,0 +1,54 @@
+body {
+	margin: 0px;
+}
+
+hr {
+	border: 1px solid black;
+}
+
+.header {
+	display: block;
+	background: url(https://images.freeimages.com/images/large-previews/01a/technology-background-1632715.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed; 
+}
+
+.header .titulo {
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+	width: 50%
+	padding-top: 20px;
+	color: white;
+}
+
+.body {
+	background: url(https://image.freepik.com/vetores-gratis/fundo-de-particulas-abstratas-tecnologia_52683-25766.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.info-pessoal {
+	display: block;
+	background: white;
+	padding: 10px;
+	margin: 20px auto;
+	text-align: center;
+	color: black;
+}
+
+.info-academica {
+	display: block;
+	background: white;
+	text-align: center;
+	padding: 10px;
+	margin: 20px auto;
+	color: black;
+}
+
+.bloco-info {
+	background: rgba(156, 215, 195, 0.5);
+	padding: 20px;
+}
